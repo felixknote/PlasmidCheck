@@ -27,8 +27,3 @@ name;sequence
 sgRNA_1;tttGAGTCCGAGCAGAAGAAGaaac
 sgRNA_2;tttTTTGCCTACGAGGTTGTCGaaac
 ...
-
-## Installation
-conda create -n biopython python=3.10
-conda activate biopython
-pip install biopython pandas PySimpleGUI
